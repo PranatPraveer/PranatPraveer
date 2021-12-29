@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-   <p align="center"><img src="https://user-images.githubusercontent.com/68765059/147643798-517a26cd-12ac-4250-90cd-bd48d78644a6.gif" height=400 width= 60% align="center" ></p>
+   <p align="center"><img src="https://user-images.githubusercontent.com/68765059/147643798-517a26cd-12ac-4250-90cd-bd48d78644a6.gif" height=400 width= 50% align="center" ></p>
 
 
 <a href="https://www.instagram.com/pranatpraveer/">
@@ -24,6 +24,9 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/68765059/147644556-3c507efd-7e00-4588-8a92-4d109e953d94.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/68765059/147668812-0289b3f6-b7d7-4daf-90e1-cc62912adc3c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PranatPraveer&show_icons=true&theme=radical" height=400 width= 60% align="center" ></p>
+
